@@ -1,0 +1,238 @@
+body{
+    margin: 0;
+}
+nav{
+    position: fixed;
+    height: 2cm;
+    background-color: #f96715;
+}
+#logo{
+    width: 80px;
+    height: 80px;
+}
+#carsuv{
+    height: 40px;
+    width: 40px;
+    margin-left: 190px;
+    margin-top: -60px;
+}
+.suv{
+    margin-top: -40px;
+}
+#cars{
+    height: 55px;
+    width: 55px;
+    margin-top: -54px;
+    margin-left: 100px;
+    margin-bottom: 43px;
+}
+#carv{
+    height: 40px;
+    width: 40px;
+    margin-left: 7cm;
+    margin-top: -16cm;
+    margin-bottom: 73px;
+}
+#recherche{
+    margin-left: 9cm;
+    height: 30px;
+    width: 30px;
+    margin-top: -3cm;
+    margin-bottom: 5cm;
+}
+#headimage{
+    height: 200px;
+    width: 100%;
+    margin-top: 2cm;
+}
+
+main{
+    margin-top: -25px;
+    height: 45cm;
+    width: 100%;
+    background-color: #04244a;
+}
+#passion{
+    color: rgb(0, 162, 255);
+}
+main h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
+main u{
+    color: rgb(0, 162, 255);
+}
+main h1{
+    color: rgb(247, 243, 244);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#evoqie{
+    color: #f96715;
+}
+#rang{
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+}
+#eqiua{
+    height: 150px;
+    width: 200px;
+    margin-left: 30%;
+}
+main p{
+    text-align: center;
+    color: rgb(0, 162, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.forms form{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1cm;
+}
+.forms input{
+    border-color: #f96715;
+    border-radius: 5px;
+    width: 6cm;
+    height: 20px;
+    background-color: transparent;
+}
+.forms ::placeholder{
+    color: #f56a1aaf;
+}
+#date{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#label{
+    text-align: center;
+}
+#date input{
+    color: rgb(0, 0, 0);
+    background-color: tomato;
+    border-color: #f96715;
+    width: 6cm;
+    height: 20px;
+
+}
+#reserve{
+    margin-left: 65%;
+    margin-top: 10px;
+    color: tomato;
+    background-color: transparent;
+    border-color: #f96715;
+}
+.picture img{
+    height: 100px;
+    width: 200px;
+    margin-top: 1cm;
+    margin-left: 30%;
+}
+    fieldset legend{
+        color: ivory;
+        font-family: cursive;
+    }
+    fieldset h4{
+        color: #f96715;
+    }
+    fieldset u{
+        color: #f96715;
+    }
+    #comment{
+        color: rgb(255, 212, 177);
+    }
+#man{
+    height: 40px;
+    width: 40px;
+    
+}
+fieldset p{
+    color: #f96715;
+    margin-left: -130px;
+    margin-top: -40px;
+}
+#woaman{
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
+#commente{
+    color: rgb(255, 255, 255);
+    margin-left: 55px;
+    margin-top: -10px;
+ 
+}
+#commenteee{
+    color: rgb(255, 255, 255);
+    margin-left: 55px;
+    margin-top: -103px;
+}
+h5{
+    color: transparent;
+    margin-top: 1cm;
+}
+footer{
+    width: 100%;
+    height: 13cm;
+    margin-top: -7cm;
+    background-color: rgb(32, 32, 32);
+}
+#about{
+    color: #00a2ff;
+    
+    text-align: center;
+}
+.footinfo{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    
+}
+.contact h3{
+    color: #00a2ff;
+    text-align: center;
+}
+.contact h4{
+    color: white;
+    text-align: center;
+}
+.social{
+    color: #00a2ff;
+    text-align: center;
+    
+}
+.socialm{
+    margin-left: -14px;
+}
+#facebook{
+    width: 30px;
+    margin-left: 4cm;
+    margin-top: -19px;
+}
+#insta{
+    width: 30px;
+    margin-left: 0cm;
+    margin-top: -19px;
+}
+#whatss{
+    width: 30px;
+    margin-left: 0cm;
+    margin-top: -19px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration-color: transparent;
+}
+a :hover{
+    color: tomato;
+}
+
+
+
+
+
+
