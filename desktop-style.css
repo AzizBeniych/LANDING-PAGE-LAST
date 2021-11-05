@@ -1,0 +1,321 @@
+
+    
+@media(min-width:428px){
+    
+    body{
+        margin: 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    nav{
+       width: 100%;
+        position: fixed;
+        height: 2cm;
+        background-color: #f96715;
+    }
+    #logo{
+        width: 120px;
+        height: 120px;
+        margin-left: 4cm;
+        margin-top: -1rem;
+        
+    }
+    
+    #imagclass{
+        margin-left: 29cm;
+        margin-top: -1cm;
+        height: 200px;
+        width: 340px;
+        
+        
+    }
+    #carsuv{
+        height: 90px;
+        width: 90px;
+        margin-left: 20cm;
+        margin-top: -70px;
+    }
+    .suv{
+        margin-top: -40px;
+        
+    }
+    #cars{
+        height: 90px;
+        width: 90px;
+        margin-top: -55px;
+        margin-left: 100px;
+        margin-bottom: 43px;
+    }
+    #carv{
+        height: 70px;
+        width: 70px;
+        margin-left: 14cm;
+        margin-top: -16cm;
+        margin-bottom: 73px;
+    }
+    #recherche{
+        margin-left: 34cm;
+        height: 50px;
+        width: 50px;
+        margin-top: -10rem;
+        margin-bottom: 5cm;
+    }
+    #headimage{
+        
+        width: 100%;
+        margin-top: 2cm;
+    }
+    
+    main{
+        margin-top: -25px;
+        height: 109cm;
+        width: 100%;
+        background-color: #04244a;
+    }
+    #passion{
+        color: rgb(0, 162, 255);
+        
+    }
+    main h2{
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 70px;
+    }
+    
+    main u{
+        color: rgb(0, 162, 255);
+    }
+    main h1{
+        color: rgb(247, 243, 244);
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 60px;
+    }
+    #evoqie{
+        color: #f96715;
+    }
+    #evoqie:hover{
+        color: #f5f915;
+    }
+    #rang{
+
+        width: 800px;
+        margin-left: 35%;
+    }
+    #eqiua{
+        
+        width: 800px;
+        margin-left: 35%;
+        border-style: solid;
+        border-color: #f96715;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    main p{
+        text-align: center;
+        color: rgb(0, 162, 255);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 40px;
+    }
+    main p:hover{
+        text-align: center;
+        color: rgb(255, 81, 0);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 40px;
+    }
+    #prix{
+        color: #fffb00;
+        font-size: 100px;
+        text-align: center;
+    }
+    #prix:hover{
+        color: #ff6600;
+        font-size: 100px;
+        text-align: center;
+    }
+    #price{
+        color: aliceblue;
+        
+    }
+    #price:hover{
+        color: #ff6600;
+        font-size: 100px;
+        text-align: center;
+    }
+    .forms form{
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1cm;
+
+    }
+    .forms input{
+        border-color: #f96715;
+        border-radius: 5px;
+        width: 20cm;
+        height: 50px;
+        background-color: transparent;
+    }
+    .forms ::placeholder{
+        color: #f56a1aaf;
+
+    }
+    #date{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #label{
+        text-align: center;
+    }
+    #date input{
+        color: rgb(0, 0, 0);
+        background-color: tomato;
+        border-color: #f96715;
+        width: 6cm;
+        height: 20px;
+    
+    }
+    #reserve{
+        margin-left: 60%;
+        margin-top: 10px;
+        width: 120px;
+        height: 40px;
+        color: tomato;
+        background-color: transparent;
+        border-color: #f96715;
+    }
+    #reserve:hover{
+        background-color: tomato;
+        color: rgb(0, 8, 43);
+    }
+    .picture img{
+        
+        width: 450px;
+        margin-top: -10cm;
+        margin-left: 8%;
+    }
+        fieldset legend{
+            color: ivory;
+            font-family: cursive;
+        }
+        fieldset h4{
+            color: #f96715;
+            font-size: 40px;
+        }
+        fieldset u{
+            color: #f96715;
+        }
+        #comment{
+            color: rgb(255, 212, 177);
+        }
+    #man{
+        
+        width: 80px;
+        margin-left: 5cm;
+        
+        
+    }
+    fieldset p{
+        color: #f96715;
+        margin-left: -40cm;
+        margin-top: -75px;
+        font-size: 40px;
+    }
+    
+    
+
+    #woaman{
+
+        width: 80px;
+        margin-left: 5cm;
+        margin-top: 30px;
+    }
+    #commente{
+        color: rgb(255, 255, 255);
+        margin-left: 9cm;
+        margin-top: -25px;
+        font-size: 20px;
+     
+    }
+    .addcommentt{
+        
+    }
+    legend{
+        font-size: 30px;
+    }
+    #commenteee{
+        color: rgb(255, 255, 255);
+        margin-left: 9cm;
+        margin-top: -215px;
+        font-size: 20px;
+    }
+    h5{
+        color: transparent;
+        margin-top: 5cm;
+    }
+    footer{
+        width: 100%;
+        height: 29cm;
+        margin-top: -7cm;
+        background-color: rgb(32, 32, 32);
+    }
+    #about{
+        color: #00a2ff;
+        font-size: 40px;
+        text-align: center;
+    }
+    .footinfo{
+        color: white;
+        font-size: 25px;
+        text-align: center;
+        
+    }
+    .contact h3{
+        color: #00a2ff;
+        text-align: center;
+        font-size: 40px;
+    }
+    .contact h4{
+        color: white;
+        text-align: center;
+        font-size: 25px;
+    }
+    .social{
+        color: #00a2ff;
+        text-align: center;
+        font-size: 40px;
+        
+    }
+    .socialm{
+        margin-left: 30cm;
+        
+
+    }
+    #facebook{
+        width: 60px;
+        
+        margin-top: -19px;
+    }
+    #insta{
+        width: 60px;
+        margin-left: 1cm;
+        margin-top: -19px;
+    }
+    #whatss{
+        width: 60px;
+        margin-left: 1cm;
+        margin-top: -19px;
+    }
+    a{
+        color: rgb(255, 255, 255);
+        text-decoration-color: transparent;
+    }
+    a :hover{
+        color: tomato;
+    }
+    
+    }
+    

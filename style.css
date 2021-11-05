@@ -1,6 +1,13 @@
+
+
+@media(max-width:428px){
+
+
+
 body{
     margin: 0;
 }
+
 nav{
     position: fixed;
     height: 2cm;
@@ -48,7 +55,7 @@ nav{
 
 main{
     margin-top: -25px;
-    height: 45cm;
+    height: 52cm;
     width: 100%;
     background-color: #04244a;
 }
@@ -72,14 +79,19 @@ main h1{
     color: #f96715;
 }
 #rang{
-    height: 200px;
-    width: 200px;
-    margin-left: 30%;
+    
+    width: 300px;
+    margin-left: 12%;
 }
 #eqiua{
-    height: 150px;
-    width: 200px;
-    margin-left: 30%;
+    
+    width: 300px;
+    margin-left: 15%;
+}
+#prix{
+    color: #fffb00;
+    font-size: 40px;
+    text-align: center;
 }
 main p{
     text-align: center;
@@ -230,7 +242,7 @@ a{
 a :hover{
     color: tomato;
 }
-
+}
 
 
 
