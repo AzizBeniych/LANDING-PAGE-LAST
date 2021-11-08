@@ -30,26 +30,26 @@
     #carsuv{
         height: 90px;
         width: 90px;
-        margin-left: 20cm;
+        margin-left: 16cm;
         margin-top: -70px;
     }
     .suv{
         
         margin-top: -40px;
-        margin-left: -500px;
+        margin-left: -300px;
         
     }
     #cars{
         height: 90px;
         width: 90px;
         margin-top: -55px;
-        margin-left: 100px;
+        margin-left: 140px;
         margin-bottom: 43px;
     }
     #carv{
         height: 70px;
         width: 70px;
-        margin-left: 10cm;
+        margin-left: 12cm;
         margin-top: -16cm;
         margin-bottom: 73px;
     }
@@ -63,7 +63,7 @@
     header{
         width: 100%;
         height: 9cm;
-        background-color: seagreen;
+        
     }
     
     
@@ -75,7 +75,7 @@
     
     main{
         margin-top: -25px;
-        height: 55cm;
+        height: 56cm;
         width: 100%;
         background-color: #04244a;
     }
@@ -89,7 +89,15 @@
         color: rgb(255, 255, 255);
         font-size: 40px;
     }
-    
+    #rangrover{
+        width: 320px;
+        margin-bottom: 26px;
+        margin-left: 5%;
+        border-style: solid;
+        border-color: #f96715;
+        border-width: 3px;
+        border-radius: 5px;
+    }
     main u{
         color: rgb(0, 162, 255);
     }
@@ -105,15 +113,24 @@
     #evoqie:hover{
         color: #f5f915;
     }
+    #evoqieinside{
+        width: 336px;
+        margin-left: 5%;
+        margin-bottom: 10px;
+        border-style: solid;
+        border-color: #f96715;
+        border-width: 3px;
+        border-radius: 5px;
+    }
     #rang{
 
         width: 300px;
-        margin-left: 40%;
+        margin-left: 25%;
     }
     #eqiua{
         
         width: 300px;
-        margin-left: 40%;
+        margin-left: 25%;
         border-style: solid;
         border-color: #f96715;
         border-width: 3px;
@@ -186,7 +203,7 @@
     
     }
     #reserve{
-        margin-left: 45%;
+        margin-left: 46%;
         margin-top: 10px;
         width: 120px;
         height: 40px;
@@ -226,47 +243,54 @@
     #man{
         
         width: 50px;
-        margin-left: 5cm;
+        margin-left: 8cm;
         
         
     }
     
-    #barak{
-        margin-left: -17cm;
-        font-size: 13px;
-        margin-top: -12rem;
-
-    }
-    #barrrak{
-        margin-left: -17cm;
-        font-size: 13px;
-        margin-top: 7rem;
-    }
-
     #woaman{
 
         width: 50px;
-        margin-left: 5cm;
+        margin-left: 8cm;
         margin-top: 30px;
     }
-    #commente{
-        color: rgb(255, 255, 255);
-        margin-left: 17rem;
-        margin-top: 10rem;
-        font-size: 10px;
-     
-    }
+    
     .addcommentt{
         
     }
     legend{
         font-size: 30px;
     }
-    #commenteee{
-        color: rgb(255, 255, 255);
-        margin-left: 7cm;
-        margin-top: -12rem;
-        font-size: 10px;
+    .comm{
+        margin-top: -200px;
+        margin-left: -350px;
+    }
+    .commm{
+        margin-top: 82px;
+        margin-left: -350px;
+    }
+    #woaman2{
+        width: 50px;
+        margin-left: 20cm;
+        margin-top: -700px;
+        margin-bottom: 160px;
+    }
+    .comm2{
+        width: 50px;
+        margin-left: 22cm;
+        margin-top: -230px;
+        
+    }
+    #man2{
+        width: 50px;
+        margin-left: 20cm;
+        margin-top: 68px;
+        margin-bottom: 120px;
+    }
+    .commm2{
+        width: 50px;
+        margin-left: 22cm;
+        margin-top: -190px;
     }
     h5{
         color: transparent;
@@ -306,7 +330,7 @@
         
     }
     .socialm{
-        margin-left: 14cm;
+        margin-left: 39rem;
         
 
     }
