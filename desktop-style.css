@@ -11,7 +11,7 @@
        width: 100%;
         position: fixed;
         height: 2cm;
-        background-color: hsl(22, 95%, 53%);
+        background-color: #ff4646;
     }
     #logo{
         width: 120px;
@@ -75,12 +75,13 @@
     
     main{
         margin-top: -25px;
-        height: 56cm;
+        height: 59cm;
         width: 100%;
-        background-color: #04244a;
+        background-color: #0099ff;
     }
     #passion{
-        color: rgb(0, 162, 255);
+        color: rgb(255, 0, 0);
+        font-size: 30px;
         
     }
     main h2{
@@ -90,11 +91,11 @@
         font-size: 40px;
     }
     #rangrover{
-        width: 320px;
-        margin-bottom: 26px;
+        width: 390px;
+        margin-bottom: 2px;
         margin-left: 5%;
         border-style: solid;
-        border-color: #f96715;
+        border-color: #ffffff;
         border-width: 3px;
         border-radius: 5px;
     }
@@ -108,17 +109,22 @@
         font-size: 30px;
     }
     #evoqie{
-        color: #f96715;
+        color: rgb(255, 0, 0);
     }
     #evoqie:hover{
         color: #f5f915;
+    }
+    #priceold{
+        color: rgb(255, 0, 0);
+        font-size: 50px;
+        text-decoration: line-through #fffb00;
     }
     #evoqieinside{
         width: 336px;
         margin-left: 5%;
         margin-bottom: 10px;
         border-style: solid;
-        border-color: #f96715;
+        border-color: #ffffff;
         border-width: 3px;
         border-radius: 5px;
     }
@@ -126,19 +132,23 @@
 
         width: 300px;
         margin-left: 25%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
     }
     #eqiua{
         
         width: 300px;
         margin-left: 25%;
         border-style: solid;
-        border-color: #f96715;
+        border-color: #ffffff;
         border-width: 3px;
         border-radius: 5px;
     }
     main p{
         text-align: center;
-        color: rgb(0, 162, 255);
+        color: rgb(248, 248, 248);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 15px;
     }
@@ -173,47 +183,52 @@
         flex-direction: column;
         align-items: center;
         margin-top: 1cm;
+        margin-left: 13cm;
 
     }
     .forms input{
-        border-color: #f96715;
+        border-color: #ffffff;
         border-radius: 5px;
-        width: 10cm;
+        width: 13cm;
         height: 30px;
         background-color: transparent;
     }
     .forms ::placeholder{
-        color: #f56a1aaf;
+        color: #ffffffaf;
 
     }
     #date{
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-left: 13cm;
     }
     #label{
         text-align: center;
     }
     #date input{
-        color: rgb(0, 0, 0);
-        background-color: tomato;
-        border-color: #f96715;
-        width: 6cm;
-        height: 20px;
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 162, 255);
+        border-color: #ffffff;
+        width: 13cm;
+        height: 30px;
     
     }
     #reserve{
-        margin-left: 46%;
+        margin-left: 72rem;
         margin-top: 10px;
         width: 120px;
         height: 40px;
-        color: tomato;
+        color: rgb(255, 255, 255);
         background-color: transparent;
-        border-color: #f96715;
+        border-color: #ffffff;
+    }
+    #reservnow{
+     margin-left: 35rem;   
     }
     #reserve:hover{
-        background-color: tomato;
-        color: rgb(0, 8, 43);
+        background-color: rgb(240, 22, 22);
+        color: rgb(0, 140, 255);
     }
     .picture img{
         
@@ -222,7 +237,8 @@
         margin-left: 4%;
     }
     #picc{
-        margin-bottom: 5rem;
+        margin-bottom: 2rem;
+        width: 500px;
     }
         fieldset legend{
             color: ivory;
@@ -230,12 +246,12 @@
             font-size: 20px;
         }
         fieldset h4{
-            color: #f96715;
+            color: #f91515;
             font-size: 15px;
 
         }
         fieldset u{
-            color: #f96715;
+            color: #f91515;
         }
         #comment{
             color: rgb(255, 212, 177);
