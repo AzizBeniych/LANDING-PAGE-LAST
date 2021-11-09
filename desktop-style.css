@@ -287,6 +287,19 @@
         margin-top: 82px;
         margin-left: -350px;
     }
+    #olldldld{
+        font-size: 13.5px;
+        color: #ffffff;
+        outline: none;
+        background-color: transparent;
+        border: transparent;
+        text-decoration: underline #ffffff;
+
+    }
+    #olldldld::placeholder{
+        color: #ffffff;
+        font-size: 13.5px;
+    }
     #woaman2{
         width: 50px;
         margin-left: 20cm;
@@ -299,12 +312,14 @@
         margin-top: -230px;
         
     }
+
     #man2{
         width: 50px;
         margin-left: 20cm;
         margin-top: 68px;
         margin-bottom: 120px;
     }
+    
     .commm2{
         width: 50px;
         margin-left: 22cm;
