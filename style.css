@@ -1,0 +1,288 @@
+
+
+@media(max-width:428px){
+
+
+
+    body{
+        margin: 0;
+    }
+    nav{
+        position: fixed;
+        height: 2cm;
+        background-color: #d0ff00;
+    }
+    #logo{
+        width: 80px;
+        height: 80px;
+    }
+    #carsuv{
+        height: 40px;
+        width: 40px;
+        margin-left: 190px;
+        margin-top: -60px;
+    }
+    .suv{
+        margin-top: -40px;
+    }
+    #cars{
+        height: 55px;
+        width: 55px;
+        margin-top: -54px;
+        margin-left: 100px;
+        margin-bottom: 43px;
+    }
+    #carv{
+        height: 40px;
+        width: 40px;
+        margin-left: 7cm;
+        margin-top: -8rem;
+        margin-bottom: 73px;
+    }
+    #recherche{
+        margin-left: 9cm;
+        height: 30px;
+        width: 30px;
+        margin-top: -117px;
+        margin-bottom: 5cm;
+    }
+    header{
+        width: 100%;
+        height: 9cm;
+        background-image: url("Nardi-Wheellllllll.jpg");
+    }
+    #barrrak{
+        margin-top: -60px;
+    }
+    main{
+        margin-top: -25px;
+        height: 75cm;
+        width: 100%;
+        background-image: url("BGI.png");
+    }
+    #passion{
+        color: #d0ff00;
+        font-size: 30px;
+    }
+    main h2{
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+    main u{
+        color: rgb(0, 162, 255);
+    }
+    main h1{
+        color: rgb(247, 243, 244);
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    #evoqie{
+        color: #d0ff00;
+    }
+    #rang{
+        
+        width: 300px;
+        margin-left: 9%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    
+    #rangrover{
+        width: 300px;
+        margin-bottom: 26px;
+        margin-left: 10%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    #evoqieinside{
+        width: 336px;
+        margin-left: 5%;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    #eqiua{
+        
+        width: 336px;
+        margin-left: 5%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    #priceold{
+        color: rgb(255, 0, 0);
+        font-size: 50px;
+        text-decoration: line-through #fffb00;
+    }
+    #prix{
+        color: #d0ff00;
+        font-size: 40px;
+        text-align: center;
+    }
+    main p{
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .forms form{
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1cm;
+    }
+    .forms input{
+        border-color: #ffffff;
+        border-radius: 5px;
+        width: 6cm;
+        height: 20px;
+        background-color: transparent;
+    }
+    .forms ::placeholder{
+        color: rgba(199, 199, 199, 0.788);
+    }
+    #date{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #label{
+        text-align: center;
+    }
+    #date input{
+        color: rgb(242, 245, 247);
+        background-color: rgb(0, 162, 255);
+        border-color: rgb(255, 255, 255);
+        width: 6cm;
+        height: 20px;
+    
+    }
+    #reserve{
+        margin-left: 65%;
+        margin-top: 10px;
+        color: rgb(0, 162, 255);
+        background-color: transparent;
+        border-color: #ffffff;
+    }
+    .picture img{
+        
+        width: 350px;
+        margin-left: 5%;
+    }
+        fieldset legend{
+            color: ivory;
+            font-family: cursive;
+        }
+        fieldset h4{
+            color: #ffffff;
+        }
+        fieldset u{
+            color: #ffffff;
+        }
+        #comment{
+            color: rgb(255, 212, 177);
+        }
+    
+        #man{
+            width: 50px;
+        }
+        #barak{
+            margin-top: -8rem;
+            margin-left: -100px;
+        }
+        #barrak{
+            margin-top: 40px;
+            margin-left: -100px;
+        }
+        #woaman{
+            width: 50px;
+            margin-top: -24px;
+        }
+        #woaman2{
+            width: 50px;
+            margin-top: 20px;
+        }
+        #man2{
+            width: 50px;
+        }
+        #baarrak{
+            margin-top: -3rem;
+            margin-left: -130px;
+            
+        }
+        
+    h5{
+        color: transparent;
+        margin-top: 0cm;
+    }
+    footer{
+        width: 100%;
+        height: 13cm;
+        margin-top: -6cm;
+        background-image: url("BGI.png");
+    }
+    #about{
+        color: #00a2ff;
+        
+        text-align: center;
+    }
+    .footinfo{
+        color: white;
+        font-size: 10px;
+        text-align: center;
+        
+    }
+    .contact h3{
+        color: #00a2ff;
+        text-align: center;
+    }
+    .contact h4{
+        color: white;
+        text-align: center;
+    }
+    .social{
+        color: #00a2ff;
+        text-align: center;
+        
+    }
+    .socialm{
+        margin-left: -14px;
+    }
+    #facebook{
+        width: 30px;
+        margin-left: 4cm;
+        margin-top: -19px;
+    }
+    #insta{
+        width: 30px;
+        margin-left: 0cm;
+        margin-top: -19px;
+    }
+    #whatss{
+        width: 30px;
+        margin-left: 0cm;
+        margin-top: -19px;
+    }
+    a{
+        color: rgb(255, 255, 255);
+        text-decoration-color: transparent;
+    }
+    a :hover{
+        color: tomato;
+    }
+    }
+    
+    
+    
+    
+    
+    

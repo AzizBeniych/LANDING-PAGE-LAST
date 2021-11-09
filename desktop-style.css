@@ -1,0 +1,393 @@
+
+    
+@media(min-width:428px){
+    
+    body{
+        margin: 0;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    nav{
+       width: 100%;
+        position: fixed;
+        height: 2cm;
+        background-color: #d0ff00;
+    }
+    #logo{
+        width: 120px;
+        height: 120px;
+        margin-top: -1rem;
+    }
+    
+    #imagclass{
+        margin-left: 12cm;
+        margin-top: -1cm;
+        height: 200px;
+        width: 340px;
+        
+        
+    }
+    #carsuv{
+        height: 90px;
+        width: 90px;
+        margin-left: 16cm;
+        margin-top: -70px;
+    }
+    .suv{
+        
+        margin-top: -40px;
+        margin-left: -300px;
+        
+    }
+    #cars{
+        height: 90px;
+        width: 90px;
+        margin-top: -55px;
+        margin-left: 140px;
+        margin-bottom: 43px;
+    }
+    #carv{
+        height: 70px;
+        width: 70px;
+        margin-left: 12cm;
+        margin-top: -16cm;
+        margin-bottom: 73px;
+    }
+    #recherche{
+        margin-left: 19cm;
+        height: 50px;
+        width: 50px;
+        margin-top: -10rem;
+        margin-bottom: 5cm;
+    }
+    header{
+        width: 100%;
+        height: 9cm;
+        background-image: url("Nardi-Wheelll.jpg");
+    }
+    
+    
+    #headimage{
+        
+        width: 100%;
+        margin-top: 2cm;
+    }
+    
+    main{
+        margin-top: -25px;
+        height: 59cm;
+        width: 100%;
+        /* background-color: #234EDB; */
+        background-image: url("BGI.png");
+    }
+    #passion{
+        color: #d0ff00;
+        font-size: 50px;
+        
+    }
+    main h2{
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 40px;
+    }
+    #rangrover{
+        width: 390px;
+        margin-bottom: 2px;
+        margin-left: 5%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    main u{
+        color: rgb(0, 162, 255);
+    }
+    main h1{
+        color: rgb(247, 243, 244);
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 30px;
+    }
+    #evoqie{
+        color: #d0ff00;
+    }
+    #evoqie:hover{
+        color: #f91515;
+    }
+    #priceold{
+        color: rgb(255, 0, 0);
+        font-size: 50px;
+        text-decoration: line-through #fffb00;
+    }
+    #evoqieinside{
+        width: 336px;
+        margin-left: 5%;
+        margin-bottom: 10px;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    #rang{
+
+        width: 300px;
+        margin-left: 25%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    #eqiua{
+        
+        width: 300px;
+        margin-left: 25%;
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    main p{
+        text-align: center;
+        color: rgb(248, 248, 248);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+    }
+    main p:hover{
+        text-align: center;
+        color: #d0ff00;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+    }
+    #prix{
+        color: #d0ff00;
+        font-size: 50px;
+        text-align: center;
+    }
+    #prix:hover{
+        color: #25a32b;
+        
+        text-align: center;
+    }
+    #price{
+        color: aliceblue;
+        
+    }
+    #price:hover{
+        color: #25a32b;
+        
+        text-align: center;
+    }
+    .forms form{
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1cm;
+        margin-left: 13cm;
+
+    }
+    .forms input{
+        border-color: #ffffff;
+        border-radius: 5px;
+        width: 13cm;
+        height: 30px;
+        background-color: transparent;
+    }
+    .forms ::placeholder{
+        color: #ffffffaf;
+
+    }
+    #date{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 13cm;
+    }
+    #label{
+        text-align: center;
+    }
+    #date input{
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 162, 255);
+        border-color: #ffffff;
+        width: 13cm;
+        height: 30px;
+    
+    }
+    #reserve{
+        margin-left: 72rem;
+        margin-top: 10px;
+        width: 120px;
+        height: 40px;
+        color: rgb(255, 255, 255);
+        background-color: transparent;
+        border-color: #ffffff;
+    }
+    #reservnow{
+     margin-left: 35rem;   
+    }
+    
+    #reserve:hover{
+        background-color: rgb(0, 140, 255);
+        color: rgb(8, 8, 8);
+    }
+    .picture img{
+        
+        width: 300px;
+        margin-top: -10cm;
+        margin-left: 4%;
+    }
+    #picc{
+        margin-bottom: 2rem;
+        width: 500px;
+    }
+        fieldset legend{
+            color: ivory;
+            font-family: cursive;
+            font-size: 20px;
+        }
+        fieldset h4{
+            color: #ffffff;
+            font-size: 15px;
+
+        }
+        fieldset u{
+            color: #fafafa;
+        }
+        #comment{
+            color: rgb(255, 255, 255);
+        }
+    #man{
+        
+        width: 50px;
+        margin-left: 8cm;
+        
+        
+    }
+    
+    #woaman{
+
+        width: 50px;
+        margin-left: 8cm;
+        margin-top: 30px;
+    }
+    
+    .addcommentt{
+        
+    }
+    legend{
+        font-size: 30px;
+    }
+    .comm{
+        margin-top: -200px;
+        margin-left: -350px;
+    }
+    .commm{
+        margin-top: 82px;
+        margin-left: -350px;
+    }
+    #olldldld{
+        font-size: 13.5px;
+        color: #ffffff;
+        outline: none;
+        background-color: transparent;
+        border: transparent;
+        text-decoration: underline #ffffff;
+
+    }
+    #olldldld::placeholder{
+        color: #ffffff;
+        font-size: 13.5px;
+    }
+    #woaman2{
+        width: 50px;
+        margin-left: 20cm;
+        margin-top: -700px;
+        margin-bottom: 160px;
+    }
+    .comm2{
+        width: 50px;
+        margin-left: 22cm;
+        margin-top: -230px;
+        
+    }
+
+    #man2{
+        width: 50px;
+        margin-left: 20cm;
+        margin-top: 68px;
+        margin-bottom: 120px;
+    }
+    
+    .commm2{
+        width: 50px;
+        margin-left: 22cm;
+        margin-top: -190px;
+    }
+    h5{
+        color: transparent;
+        margin-top: 1cm;
+    }
+    footer{
+        width: 100%;
+        height: 18cm;
+        margin-top: -7cm;
+        background-image: url("BGI.png");
+    }
+    #about{
+        color: #00a2ff;
+        font-size: 25px;
+        text-align: center;
+    }
+    .footinfo{
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        
+    }
+    .contact h3{
+        color: #00a2ff;
+        text-align: center;
+        font-size: 25px;
+    }
+    .contact h4{
+        color: white;
+        text-align: center;
+        font-size: 15px;
+    }
+    .social{
+        color: #00a2ff;
+        text-align: center;
+        font-size: 28px;
+        
+    }
+    .socialm{
+        margin-left: 39rem;
+        
+
+    }
+    #facebook{
+        width: 60px;
+        
+    }
+    #insta{
+        width: 60px;
+        
+        
+    }
+    #whatss{
+        width: 60px;
+        
+        
+    }
+    a{
+        color: rgb(255, 255, 255);
+        text-decoration-color: transparent;
+    }
+    a :hover{
+        color: #00aeff;
+    }
+    
+    }
+    
