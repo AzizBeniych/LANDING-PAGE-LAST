@@ -147,6 +147,19 @@
         height: 20px;
         background-color: transparent;
     }
+    #olldldld{
+        font-size: 13.5px;
+        color: #ffffff;
+        outline: none;
+        background-color: transparent;
+        border: transparent;
+        text-decoration: underline #ffffff;
+
+    }
+    #olldldld::placeholder{
+        color: #ffffff;
+        font-size: 13.5px;
+        }
     .forms ::placeholder{
         color: rgba(199, 199, 199, 0.788);
     }
