@@ -9,12 +9,37 @@
     }
     nav{
         position: fixed;
+        width: 100%;
         height: 2cm;
         background-color: #d0ff00;
     }
+    
     #logo{
         width: 80px;
         height: 80px;
+    }
+    .liste{
+        margin-top: -5em;
+    }
+    .liste ul li{
+        color: rgb(0, 0, 0);
+        list-style: none;
+        display: inline-block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-left: 3em;
+        
+    }
+    #search{
+        color: rgb(0, 0, 0);
+        margin-left: 9cm;
+        font-size: 25px;
+        
+    }
+    #search:hover{
+        color: rgb(0, 162, 255);
+    }
+    #searche{
+        margin-top: -38px;
     }
     #carsuv{
         height: 40px;
@@ -147,19 +172,6 @@
         height: 20px;
         background-color: transparent;
     }
-    #olldldld{
-        font-size: 13.5px;
-        color: #ffffff;
-        outline: none;
-        background-color: transparent;
-        border: transparent;
-        text-decoration: underline #ffffff;
-
-    }
-    #olldldld::placeholder{
-        color: #ffffff;
-        font-size: 13.5px;
-        }
     .forms ::placeholder{
         color: rgba(199, 199, 199, 0.788);
     }
@@ -204,7 +216,18 @@
         #comment{
             color: rgb(255, 212, 177);
         }
+        #olldldld{
+            font-size: 13.5px;
+            color: #ffffff;
+            outline: none;
+            background-color: transparent;
+            border: transparent;
+            text-decoration: underline #ffffff;
     
+        }
+        #olldldld::placeholder{
+            color: #ffffff;
+            font-size: 13.5px;}
         #man{
             width: 50px;
         }
@@ -237,9 +260,10 @@
         color: transparent;
         margin-top: 0cm;
     }
+
     footer{
         width: 100%;
-        height: 13cm;
+        height: 10cm;
         margin-top: -6cm;
         background-image: url("BGI.png");
     }
